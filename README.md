@@ -1,50 +1,125 @@
-# Hi 👋, I'm Chandrashekar S Bagalkot
+# 👋 Hi, I'm Chandrashekar S Bagalkot
 
-🎓 AIML Student  
-💻 Python & FastAPI Developer  
-🗄️ MongoDB Enthusiast  
-🔐 Interested in Cybersecurity  
-🚀 Currently working on AI/ML and Backend Development
+### Artificial Intelligence & Machine Learning Engineer
 
----
+I am an AIML undergraduate passionate about building intelligent systems using Machine Learning, NLP, Generative AI, and Backend Development.
 
-## 🌱 Currently Learning
-
-- FastAPI
-- Machine Learning
-- MongoDB
-- Cybersecurity Fundamentals
-- Data Structures & Algorithms
+My focus is on developing AI-powered applications that solve real-world problems through data-driven insights, automation, and modern LLM technologies.
 
 ---
 
-## 🛠️ Skills
+## 🚀 Core Expertise
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,git,github,html,css,js,vscode" />
-</p>
+🔹 Machine Learning & Predictive Analytics
+
+🔹 Natural Language Processing (NLP)
+
+🔹 Generative AI & LLM Applications
+
+🔹 RAG Pipelines
+
+🔹 Backend Development & APIs
+
+🔹 Data Analysis & Visualization
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • SQL • C++ • JavaScript
+
+### Machine Learning
+
+Scikit-Learn • XGBoost • Random Forest • Logistic Regression
+
+### Generative AI
+
+LangChain • Hugging Face Transformers • RAG Pipelines • Prompt Engineering
+
+### Databases
+
+MongoDB • ChromaDB
+
+### Data Analysis
+
+Pandas • NumPy • Matplotlib • Seaborn
+
+### Tools
+
+Git • GitHub • Jupyter Notebook • Google Colab • VS Code
 
 ---
 
 ## 💼 Experience
 
-### Fork Technologies
-- Worked on AI/ML and Backend Development projects
-- Built APIs using FastAPI
-- Worked with MongoDB databases
-- Collaborated with team members on real-world projects
+### Machine Learning Intern | Fork Technologies
+
+* Developed and evaluated machine learning solutions for predictive analytics
+* Performed data preprocessing and feature engineering
+* Worked with Python, Pandas, NumPy and Scikit-Learn
+* Collaborated on AI-powered applications and model optimization
+
+---
+
+## 🌟 Featured Projects
+
+### Question Paper Topic Prediction System
+
+AI-powered prediction platform that analyzes previous year question papers using NLP and LLM techniques.
+
+**Highlights**
+
+* OCR-based document processing
+* Gemini API integration
+* Automated topic extraction
+* Intelligent prediction workflows
+* MongoDB-powered data storage
+
+**Tech Used**
+Python • NLP • OCR • Gemini API • MongoDB • Flask
+
+---
+
+### Flight Delay Prediction & Analysis
+
+Machine learning system for predicting flight delays using airline, airport, and weather datasets.
+
+**Algorithms**
+
+* Logistic Regression
+* Random Forest
+* XGBoost
+
+---
+
+## 🎓 Education
+
+B.Tech – Artificial Intelligence & Machine Learning
+
+CMR University, Bangalore
+
+CGPA: 7.40
+
+---
+
+## 📜 Certifications
+
+✔ Cloud Computing Foundations – NPTEL
+
+✔ Python for Data Science – IBM
+
+✔ Introduction to Machine Learning – Coursera
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/chandrashekar-s-bagalkot/
-- Email: chandubagalkot38@gmail.com
+📧 Email: [chandubagalkot38@gmail.com](mailto:chandubagalkot38@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/chandrashekar-s-bagalkot
 
 ---
 
-## ⚡ About Me
-
-- Passionate about Artificial Intelligence and Machine Learning
-- Interested in Cybersecurity and Backend Development
-- Always eager to learn new technologies and build impactful projects
+### "Building AI solutions that transform data into intelligent decisions."
