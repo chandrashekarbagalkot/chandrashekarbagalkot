@@ -4,7 +4,7 @@
 💻 Python & FastAPI Developer  
 🗄️ MongoDB Enthusiast  
 🔐 Interested in Cybersecurity  
-🚀 Currently doing projects in AI/ML and Backend Development
+🚀 Currently working on AI/ML and Backend Development
 
 ---
 
@@ -26,19 +26,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-![Chandrashekar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekarbagalkot&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chandrashekarbagalkot)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekarbagalkot&layout=compact)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekarbagalkot)
+### Fork Technologies
+- Worked on AI/ML and Backend Development projects
+- Built APIs using FastAPI
+- Worked with MongoDB databases
+- Collaborated with team members on real-world projects
 
 ---
 
@@ -49,6 +43,8 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ About Me
 
-I enjoy building AI-powered applications and exploring cybersecurity alongside backend development.
+- Passionate about Artificial Intelligence and Machine Learning
+- Interested in Cybersecurity and Backend Development
+- Always eager to learn new technologies and build impactful projects
